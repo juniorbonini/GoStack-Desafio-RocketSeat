@@ -1,3 +1,4 @@
 const app = require("./app");
 
-app.listen(3333);
+app.listen(3335);
+console.log("O servidor iniciou sem erros!")
